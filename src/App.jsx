@@ -1,11 +1,12 @@
 import React from 'react'
 import Navbar from './Sections/navbar'
+import Hero from './Sections/Hero'
 
 const App = () => {
   return (
     <div className='conatainer mx-auto max-w-7xl'>
 <Navbar />
-{/*hero*/}
+<Hero />
 {/*about*/}
 {/*projects*/}
 {/*experience*/}
