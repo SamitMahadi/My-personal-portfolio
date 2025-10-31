@@ -1,6 +1,6 @@
 
 import { Timeline } from "../components/Timeline";
-import { experiences } from "../constants";
+import { experiences } from "../Constants/Index";
 const Experiences = () => {
   return (
     <div id="work" className="w-full">
