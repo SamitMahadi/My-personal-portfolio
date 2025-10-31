@@ -19,7 +19,7 @@ const About = () => {
                 <div className='flex items-end grid-default-color grid-1'>
 
                     <img
-                        src='public/assets/samit-hossain-mahadi.png'
+                        src='/assets/samit-hossain-mahadi.png'
                         className='absolute  scale-[1] right-[-1.2rem] top-[-5rem] md:scale-[3] md:left-10 md:inset-y-10 lg:scale-[1.3]'
                     />
                     <div className='z-10'>
