@@ -1,7 +1,7 @@
 import { Canvas, useFrame } from '@react-three/fiber';
 import HeroText from '../components/HeroText';
 import ParallexBg from '../components/ParallexBg'
-import { ThreeDModel } from '../components/threeDModel';
+import ThreeDModel from '../components/ThreeDModel'
 import { Float } from '@react-three/drei';
 import { useMediaQuery } from 'react-responsive';
 import { easing } from 'maath';
